@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
-//Name: Sponge.ma
-//Last modified: Wed, Apr 25, 2018 03:32:46 PM
+//Name: Pipe sponges.ma
+//Last modified: Wed, Apr 25, 2018 03:44:36 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -28285,4 +28285,4 @@ connectAttr "pPipeShape6.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "pPipeShape7.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "pPipeShape8.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "pPipeShape9.iog" ":initialShadingGroup.dsm" -na;
-// End of Sponge.ma
+// End of Pipe sponges.ma
